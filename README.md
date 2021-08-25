@@ -26,7 +26,7 @@ Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenom
 7.
 
 #### Team 2
-1. Nada Hussein -lead
+1. Praise -lead
 2.
 3.
 4.
