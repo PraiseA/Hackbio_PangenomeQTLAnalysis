@@ -18,12 +18,12 @@ Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenom
 
 #### Team 1     
 1. Nada Hussein -lead
-2.
-3.
-4.
-5.
-6.
-7.
+2. Camilia Mohamed
+3. Christina Ashraf
+4. Mostafa Mansour
+5. WumiAO
+6. Fredrick Kakembo
+7. Ruth Nanjala
 
 #### Team 2
 1. Praise -lead
