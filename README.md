@@ -1,19 +1,63 @@
 ## Hackbio_PangenomeQTLAnalysis
 ### Project Outline
+#### **Major steps include:**
+* Obtaining fasta reference files (datasets) for multiple genomes (rice arabidopsis, tomato)
+Link: https://plants.ensembl.org/index.html
+* Using the data to construct a pangenome database
+Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenome - use the Pantools build command
+* Incorporating gene ontology terms in the pangenome to facilitate centric navigation
+Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenome - using the Pantools annotate command or extract the gene ids from the ref annotation then annotate the genes.
+* Developing a method to incorporate genes and annotations from multiple genomes in gene prioritization.
+* Applying the pangenome QTL prioritization to available QTL datasets in rice
 
 ### Collaborators
-#### Team 1
-#### Team 2
-#### Team 3
-#### Team 4
-#### Team 5
+#### Group leads
+Ruth Nanjala
+Fredrick Kakembo
+Toxhin
 
-### **Major steps include:**
-* Obtain fasta reference files (datasets) for multiple genomes (rice arabidopsis, tomato)
-Link: https://plants.ensembl.org/index.html
-* Use the data to construct a pangenome database
-Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenome - use the Pantools build command
-* Incorporate gene ontology terms in the pangenome to facilitate centric navigation
-Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenome - using the Pantools annotate command or extract the gene ids from the ref annotation then annotate the genes.
-* Develop a method to incorporate genes and annotations from multiple genomes in gene prioritization.
-* Apply the pangenome QTL prioritization to available QTL datasets in rice
+#### Team 1     
+1. Nada Hussein -lead
+2.
+3.
+4.
+5.
+6.
+7.
+
+#### Team 2
+1. Nada Hussein -lead
+2.
+3.
+4.
+5.
+6.
+7.
+
+#### Team 3
+1. Ahmed -lead
+2.
+3.
+4.
+5.
+6.
+7.
+
+#### Team 4
+1. Rachel Emmanuel -lead
+2.
+3.
+4.
+5.
+6.
+7.
+#### Team 5
+1. Mosope -lead
+2.
+3.
+4.
+5.
+6.
+7.
+
+
