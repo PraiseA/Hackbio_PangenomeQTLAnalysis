@@ -12,9 +12,9 @@ Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenom
 
 ### Collaborators
 #### Group leads
-Ruth Nanjala
-Fredrick Kakembo
-Toxhin
+* Ruth Nanjala
+* Fredrick Kakembo
+* Toxhin
 
 #### Team 1     
 1. Nada Hussein -lead
