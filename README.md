@@ -1,7 +1,7 @@
 ## Hackbio_PangenomeQTLAnalysis
 ### Project Outline
 #### **Major steps include:**
-* Obtaining fasta reference files (datasets) for multiple genomes (rice arabidopsis, tomato)
+* Obtaining fasta reference files (datasets) for multiple genomes (rice, arabidopsis, tomato)
 Link: https://plants.ensembl.org/index.html
 * Using the data to construct a pangenome database
 Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenome - use the Pantools build command
@@ -45,12 +45,13 @@ Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenom
 
 #### Team 4
 1. Rachel Emmanuel -lead
-2.
-3.
-4.
-5.
-6.
-7.
+2. Mallika Gakhar
+3. Cynthia Orinda
+4. Violet Nwoke
+5. Mercy Oni
+6. Cynthia Amarachi
+7. Juwon
+
 #### Team 5
 1. Mosope -lead
 2.
