@@ -27,12 +27,12 @@ Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenom
 
 #### Team 2
 1. Praise -lead
-2.
-3.
-4.
-5.
-6.
-7.
+2. Kauthar Omar
+3. Amarachukwu Chike-Onyeche
+4. Marvellous O. Oyebanjo
+5. RuthMoraa
+6. Heshica Battina Chowdary
+7. Gladys Jerono
 
 #### Team 3
 1. Ahmed -lead
