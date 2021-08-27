@@ -37,12 +37,13 @@ Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenom
 
 #### Team 3
 1. Ahmed -lead
-2.
-3.
-4.
-5.
-6.
-7.
+2. Omnia
+3. Engy
+4. Mennatullah
+5. HossamHatem
+6. YomnaElkaramany
+7. AmiraT
+
 
 #### Team 4
 1. Rachel Emmanuel -lead
