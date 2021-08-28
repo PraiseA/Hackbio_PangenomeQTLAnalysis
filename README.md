@@ -55,12 +55,13 @@ Link: https://www.bioinformatics.nl/pangenomics/manual/construct/#build-pangenom
 7. Juwon
 
 #### Team 5
-1. Mosope -lead
-2.
-3.
-4.
-5.
-6.
-7.
+1. Alabi Mosopefoluwa -lead
+2. Faloye Olamide
+3. Orababa Oluwatosin
+4. Adeniran Fadekemi
+5. Michael Olufemi
+6. Adedoyin Adesoye
+7. Idowu Jinadu
+8. Osmond Obinna
 
 
